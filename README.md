@@ -32,5 +32,10 @@ The model is star schema.
 
 ![](li2.png)
 
+## Conclusions
+
+1. Nevada state has highest total number of sales.
+2. Hot pepper pizza has highest number of sales.
+
 
 
